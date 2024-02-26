@@ -2,6 +2,11 @@
   "name": "yellowryan.me",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "yellowryan",
+    "email": "varyellowryan@gmail.com",
+    "url": "yellowryan.me"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
